@@ -1,6 +1,6 @@
 # MediScribe 🩺💬
 
-MediScribe is an AI-powered system that transcribes doctor–patient conversations in real time and generates prescription recommendations based on the dialogue.  
+MediScribe is a system that transcribes doctor–patient conversations in real time and generates prescription recommendations based on the dialogue.  
 It aims to streamline clinical documentation, improve accuracy, and enhance the patient experience.
 
 ## 🚀 Features
